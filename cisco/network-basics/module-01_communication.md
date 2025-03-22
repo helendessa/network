@@ -20,13 +20,13 @@ Internet is a worldwide collection of **inter**connected **net**works.
 01. What type of network allows computers in a home office or a remote office to connect to a corporate network?  
 a. world wide network.   
 b. smart home network.   
-**c. small office home office network**.  
+<span style="color: green;">**c. small office home office network**.</span>    
 d. medium to large network.  
 
 02. What can be placed in or on a package so that it can be tracked?  
 a. network interface card.  
 b. actuator.  
-**c. RFID tag.**  
+<span style="color: green;">**c. RFID tag.**</span>  
 d. sensor.  
 
 # Data Transmission
@@ -37,6 +37,8 @@ Information that you input.
 
 ## The bit
 - **Bi**nary digi**t**.  
-- 0/1.  
+- 1 = on, 0 = off.  
 - Smallest piece of data.  
-- 
+- All data is processed and stored as binary.
+- Binary code is used to represent and interpret letters, numbers, special characters with bits. Ex.: American Standard Code for Information Interchange (ASCII).  
+- Byte: group of eight bits. 
