@@ -20,13 +20,13 @@ Internet is a worldwide collection of **inter**connected **net**works.
 01. What type of network allows computers in a home office or a remote office to connect to a corporate network?  
 a. world wide network.   
 b. smart home network.   
-<span style="color: green;">**c. small office home office network**.</span>    
+**c. small office home office network**. ✅  
 d. medium to large network.  
 
 02. What can be placed in or on a package so that it can be tracked?  
 a. network interface card.  
 b. actuator.  
-<span style="color: green;">**c. RFID tag.**</span>  
+**c. RFID tag.** ✅  
 d. sensor.  
 
 # Data Transmission
