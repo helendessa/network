@@ -156,3 +156,67 @@ a. Guest access.
 **b. Cellular data plan.** ✅  
 c. Digital Subscriber Line (DSL).  
 d. Cable internet.  
+
+# Final questions
+
+01. What type of network is defined by two computers that can both send and receive requests for resources?  
+a. client/server.  
+**b. peer-to-peer.** ✅  
+c. enterprise.  
+d. campus.  
+
+02. What are two functions of end devices on a network? (Choose two.)  
+**a. They originate the data that flows through the network.** ✅  
+b. They direct data over alternate paths in the event of link failures.  
+c. They filter the flow of data to enhance security.  
+**d. They are the interface between humans and the communication network.** ✅  
+e. They provide the channel over which the network message travels.  
+
+03. A home user is looking for an ISP connection that provides high speed digital transmission over regular phone lines. What ISP connection type should be used?  
+**a. DSL.** ✅  
+b. dial-up.  
+c. satellite.  
+d. cell modem.  
+e. cable modem.  
+
+04. What type of internet connection would be best for a residence in a remote area without mobile phone coverage or wired connectivity?  
+a. dial-up.  
+b. cellular.  
+**c. satellite.** ✅  
+d. DSL.  
+
+05. Which term correctly describes the function of an ISP?  
+a. responsible for managing local networks.  
+b. responsible for the maintenance of SOHO networks.  
+**c. responsible for providing the link between a private network and the internet.** ✅  
+d. responsible for providing security on private networks.  
+
+06. Which device is an intermediary device?  
+**a. firewall.** ✅  
+b. PC.  
+c. server.
+d. smart device.  
+
+07. Which scenario describes a peer-to-peer network?  
+a. Users access shared files from a file server.  
+b. A user visits a webpage on the company web site.  
+**c. A user has shared a printer attached to the workstation.** ✅  
+d. Users print documents from a network printer that has a built-in NIC.  
+
+08. Which term is used to describe a network device with the primary function of providing information to other devices?  
+a. workstation.  
+b. console.  
+**c. server.** ✅  
+d. client.  
+
+09. What is an advantage of the peer-to-peer network model?  
+a. scalability.  
+b. high level of security.  
+**c. ease of setup.** ✅  
+d. centralized administration.  
+
+10. What is a characteristic of a peer-to-peer application?  
+**a. Each device using the application provides a user interface and runs a background service.** ✅  
+b. Each device can act both as a client and a server, but not simultaneously.  
+c. The resources required for the application are centralized.  
+d. One device is designated a server and one device is designated a client for all communications and services.  
